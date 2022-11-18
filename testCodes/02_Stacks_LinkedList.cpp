@@ -130,10 +130,6 @@ int main()
 {
     Stacks S1;
     S1.push(5);
-    S1.push(12);
-    S1.push(13);
-    S1.push(14);
-    S1.push(20);
     S1.print();
     
     S1.pop();
